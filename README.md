@@ -1,21 +1,63 @@
+# 🌐 Personal Portfolio Website
 
-<a href="https://youtu.be/moRqo158NGc?si=DAIbiOkKnHknEQVJ" target="_blank">
-  <img src="thumbnail.png" alt="Thumbnail"/>
-</a>
-
+This is my personal portfolio website designed to showcase my skills, projects, and achievements. It serves as a digital resume and helps recruiters and collaborators understand my work.
 
 ---
-## Introduction: 
 
-#### 🎥 Create the Ultimate Portfolio Website with Just HTML,CSS and JavaSctipt! 💻
+## 🚀 Features
 
-#### Want to design a stunning portfolio website that’s responsive, modern, and minimalist? In this step-by-step tutorial, we’ll use only HTML and CSS to craft a visually appealing site that highlights your skills, projects, and creativity. 🌟
-
-#### From building the perfect navbar and styling a sleek header to creating a gallery for your work and adding smooth animations and hover effects, this video covers it all! Whether you’re a beginner or looking to sharpen your design skills, we’ll help you master flexbox, grid, and media queries for a truly responsive layout.
-
+* 👨‍💻 About Me section
+* 🛠️ Skills and technologies showcase
+* 📂 Projects section with details
+* 📞 Contact information
+* 💡 Clean and responsive design
 
 ---
-## Watch the full tutorial on YouTub
-<a href="https://youtu.be/moRqo158NGc?si=DAIbiOkKnHknEQVJ">
-  <img src="youtube.png" alt="youtube"/>
-</a>
+
+## 🛠️ Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+## 📂 Project Structure
+
+* `index.html` – Main structure of the website
+* `style.css` – Styling and layout
+* `app.js` – Interactive functionality
+
+---
+
+## ▶️ How to Run
+
+1. Clone or download the repository
+2. Open `index.html` in your browser
+
+---
+
+## 🎯 Purpose
+
+This portfolio was created to present my skills and projects in a professional way and to support my applications for internships and job opportunities.
+
+---
+
+## 📌 Future Improvements
+
+* Add backend integration for contact form
+* Improve animations and UI/UX
+* Add more projects and certifications
+* Deploy the website online
+
+---
+
+## 👨‍💻 Author
+
+**Yaswanth Bammidi**
+
+---
+
+## ⭐ Support
+
+If you like this project, please give it a ⭐ on GitHub!
